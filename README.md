@@ -1,5 +1,5 @@
-Algorithms - Circular Queue
-===========================
+Algorithms - Circular Array Queue
+=================================
 
 Circular Queue implementation that uses an Array.
 
